@@ -35,7 +35,7 @@ Permasalahan utama yang dihadapi perusahaan dan yang akan diselesaikan dalam pro
 * Menjelaskan business dashboard yang telah dibuat.
 * Menjelaskan kesimpulan atau conclusion dari dashboard tersebut.
 6. Membuat model machine learning:
-  * asda
+  * Modelling, Evaluation, Deployment
 
 ### Persiapan
 
