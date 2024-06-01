@@ -34,6 +34,8 @@ Permasalahan utama yang dihadapi perusahaan dan yang akan diselesaikan dalam pro
 5. Membuat Video Singkat [video singkat proyek data science 1](https://youtu.be/YJf6lFLvkcI):
 * Menjelaskan business dashboard yang telah dibuat.
 * Menjelaskan kesimpulan atau conclusion dari dashboard tersebut.
+6. Membuat model machine learning:
+  * asda
 
 ### Persiapan
 
