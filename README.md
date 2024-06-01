@@ -39,25 +39,37 @@ Permasalahan utama yang dihadapi perusahaan dan yang akan diselesaikan dalam pro
 
 ### Persiapan
 
-Sumber data: ....
+Sumber data: employee_data.csv
 
 Setup environment:
 
 ```
-
+pandas==1.5.3
+matplotlib==3.7.2
+seaborn==0.12.2
+scikit-learn==1.2.2
 ```
 
 ## Business Dashboard
 
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+[Business Dashboard](https://lookerstudio.google.com/reporting/f27afb7f-6509-47ed-8544-75439e3b240d) yang telah dibuat berfungsi sebagai alat analisis visual untuk membantu perusahaan memahami faktor-faktor yang mempengaruhi tingkat attrisi karyawan. Dashboard ini terdiri dari lima grafik utama, masing-masing memberikan wawasan yang berbeda tentang bagaimana berbagai aspek pekerjaan dan demografi karyawan berhubungan dengan tingkat attrisi yaitu:
+- Attrition Rate by Gender
+- Attrition Rate by Department
+- Attrition Rate by Job Satisfaction
+- Attrition Rate by Job Role
+- Attrition Rate by Monthly Income Range
 
 ## Conclusion
 
-Jelaskan konklusi dari proyek yang dikerjakan.
+* Mengidentifikasi pola dan tren dalam data karyawan yang berkaitan dengan tingkat attrisi.
+* Mengambil langkah-langkah strategis untuk mengatasi masalah-masalah yang teridentifikasi, seperti ketidakpuasan kerja, ketidakmerataan gender, atau tantangan spesifik dalam peran pekerjaan tertentu.
+* Mengembangkan dan mengimplementasikan program dan kebijakan yang bertujuan untuk meningkatkan kepuasan dan retensi karyawan.
+* Mengurangi biaya yang terkait dengan rekrutmen dan pelatihan karyawan baru melalui peningkatan retensi karyawan.
 
 ### Rekomendasi Action Items (Optional)
 
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
-
-- action item 1
-- action item 2
+- Menyesuaikan kebijakan atau program retensi khusus untuk departemen yang memiliki tingkat atrisi tinggi.
+- Mengevaluasi deskripsi pekerjaan dan memberikan pelatihan atau jalur karir yang jelas untuk peran dengan atrisi tinggi.
+- Mengimplementasikan survei kepuasan kerja secara berkala dan menindaklanjuti dengan tindakan perbaikan berdasarkan hasil survei.
+- Mengevaluasi struktur gaji dan memastikan bahwa kompensasi yang ditawarkan kompetitif dibandingkan dengan perusahaan lain.
+- Mengembangkan dan menerapkan kebijakan yang adil dan inklusif untuk semua karyawan, termasuk kebijakan keseimbangan kerja-hidup dan kompensasi yang transparan.
